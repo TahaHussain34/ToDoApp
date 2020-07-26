@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background: #ffffff url(Facebook.jpg);
+    background-size: cover;
+}
+.btn{
+    background-color: greenyellow;
+    margin-left: 5px;
+    border-radius : 5px;
+    border-color: greenyellow;
+    outline: none;
+    height: 30px;
+    width: 80px;
+}
+.back{
+    background-color: gainsboro;
+    width: 500px;
+    display: inline-block;
+}
+#todoItem{
+    height: 30px;
+    font-size: large;
+}
+.addBtn{
+    height: 30px;
+}
+li{
+    font-size: larger;
+    list-style-type:none;
+}
+.fa{
+    background-color: transparent;
+    margin-left: 5px;
+    border-color: transparent;
+    outline: none;
+    height: 50px;
+    width: 30px;
+}
